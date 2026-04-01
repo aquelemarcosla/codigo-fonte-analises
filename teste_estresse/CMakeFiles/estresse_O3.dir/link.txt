@@ -1,0 +1,1 @@
+/usr/bin/clang  --target=aarch64-linux-gnu -march=armv9-a -Wall CMakeFiles/estresse_O3.dir/codigo_estresse.c.o -o estresse_O3 

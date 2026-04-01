@@ -1,0 +1,6 @@
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/estresse_O0.dir
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/estresse_O1.dir
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/estresse_O2.dir
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/estresse_O3.dir
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/edit_cache.dir
+/mnt/c/Users/marco/OneDrive/Documents/GitHub/codigo-fonte-analises/teste_estresse/CMakeFiles/rebuild_cache.dir
